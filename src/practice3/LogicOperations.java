@@ -1,4 +1,4 @@
-package practice2;
+package practice3;
 
 public class LogicOperations {
     public static void main(String[] args) {
